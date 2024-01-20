@@ -18,5 +18,5 @@
 To interact with your emoji collection, clone the repository and open the `index.html` file in a web browser.
 
 ## Demo
-[View Live Project](#)
+[View Live Project](https://gorgeous-cat-a660bf.netlify.app/)
 
